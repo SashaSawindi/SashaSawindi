@@ -30,7 +30,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SashaSawindi&theme=algolia&show_icons=true" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SashaSawindi&theme=algolia" alt="streak stats" />
 </p>
 
 <p align="center">
