@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Technologies That I Know 👨🏻‍💻  
+## 🚀 Technologies & Tools That I Know 👨🏻‍💻  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,express,figma,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=12" />
